@@ -1,0 +1,8 @@
+com/siabuc/apiskin/servicios/ServicioDiccionario.class
+com/siabuc/apiskin/servicios/IServicioDiccionario.class
+com/siabuc/apiskin/dao/DiccionarioRepository.class
+com/siabuc/apiskin/dao/UsuarioRepo.class
+com/siabuc/apiskin/controlers/PolizaControler.class
+com/siabuc/apiskin/models/entities/Usuario.class
+com/siabuc/apiskin/models/entities/Diccionario.class
+com/siabuc/apiskin/MsPolizasApplication.class
